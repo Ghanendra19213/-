@@ -1,7 +1,7 @@
-## Welcome to my digital identity
+## Welcome to my page
 
-### Imagine
-I believe in Design, Build, Test, Fail and Iterate Cycle.
+### I believe in Design, Build, Test and Iterate cycle.
+
 Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis, ideating, programming and prototyping ideas to solve real world problems.
 
 ### About
@@ -13,33 +13,21 @@ Tinkerer by hobbist.
 
 ```markdown
 Singularity is Far.
-
 # import AI
 # import QC
 # import Synbio
 # import IOT
-
 void main ()
 ## func Simulate(Brain)
-
 - Emerge
 - Mutate
 - Evolve
 - Converge
-
 Homo Speciation
-
 Ideate, Implement and Execute
-
 [Futurist]
 ```
-
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
-### Work
-Sneak peak about my little work [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md)
-
 ### Contact
-
-Having trouble with Pages? Check out my [CV](https:/cv) here.
-Powered by [Jekyll](https://jekyllrb.com/)
+Having trouble with Pages? Check out my [CV](https:/cv) 404 Not found here.
