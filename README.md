@@ -30,12 +30,12 @@ Syntax highlighted code block
 1. Homo Speciation
 2. Peace
 
-**Bold** and _Italic_ and `Code` text
+Ideate, Implement and Execute
 
-[Futurist](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing) 
+[Futurist]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ### Jekyll Themes
 
