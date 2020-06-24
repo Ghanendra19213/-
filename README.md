@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can preview the content about my work [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Powered by [Jekyll](https://jekyllrb.com/)
 
-### Markdown
+### Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
+I am a Computational Biologist by profession.
+I am a Electronics engineer by passion.
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ghanendra19213/Hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out my CV here [documentation](https://help.github.com/categories/github-pages-basics/)
