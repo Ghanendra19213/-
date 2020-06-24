@@ -1,34 +1,33 @@
-## Welcome to my Page
+## Welcome to my digital identity
 
-You can preview the content about my work [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md)
+### Imagine
+I believe in Design, Build, Test, Fail and Iterate Cycle.
+Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis, ideating, programming and prototyping ideas to solve real world problems.
 
-Belief in Design, Build, Test and Iterate Cycle.
-
-Powered by [Jekyll](https://jekyllrb.com/)
-
-### Work
-Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis,
 ### About
-Bioengineer by Research.
+Bioengineer by research.
 Computational Biologist by profession.
 Electronics engineer by passion.
+Solo traveller by experience.
+Tinkerer by hobbist.
 
 ```markdown
-Syntax highlighted code block
+Singularity is Far.
 
 # import AI
 # import QC
 # import Synbio
-## void main ()
-### func Simulation
+# import IOT
+
+void main ()
+## func Simulate(Brain)
 
 - Emerge
 - Mutate
 - Evolve
 - Converge
 
-1. Homo Speciation
-2. Peace
+Homo Speciation
 
 Ideate, Implement and Execute
 
@@ -37,10 +36,10 @@ Ideate, Implement and Execute
 
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ghanendra19213/Hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work
+Sneak peak about my little work [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md)
 
 ### Contact
 
-Having trouble with Pages? Check out my CV here [documentation](https://help.github.com/categories/github-pages-basics/)
+Having trouble with Pages? Check out my [CV](https:/cv) here.
+Powered by [Jekyll](https://jekyllrb.com/)
