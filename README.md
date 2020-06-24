@@ -2,30 +2,37 @@
 
 You can preview the content about my work [editor on GitHub](https://github.com/Ghanendra19213/Hello-world/edit/master/README.md)
 
+Belief in Design, Build, Test and Iterate Cycle.
+
 Powered by [Jekyll](https://jekyllrb.com/)
 
 ### Work
-
+Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis,
 ### About
-I am a Computational Biologist by profession.
-I am a Electronics engineer by passion.
+Bioengineer by Research.
+Computational Biologist by profession.
+Electronics engineer by passion.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# import AI
+# import QC
+# import Synbio
+## void main ()
+### func Simulation
 
-- Bulleted
-- List
+- Emerge
+- Mutate
+- Evolve
+- Converge
 
-1. Numbered
-2. List
+1. Homo Speciation
+2. Peace
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Futurist](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
