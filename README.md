@@ -30,4 +30,4 @@ Ideate, Implement and Execute
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ### Contact
-Having trouble with Pages? Check out my [CV](https:/404_not_found_cv) here.
+Having trouble with Pages? Check out my [CV](https://github.com/Ghanendra19213/Hi/blob/master/ghanendra_CV.pdf) here.
