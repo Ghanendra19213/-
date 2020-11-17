@@ -1,28 +1,28 @@
-# theme: jekyll-theme-minimal
-# title: Welcome to the xhacker's homepage.
-# subtitle: Whatyou looking for ?
-# tags: [personal, public]
-# thumbnail-img: "images/photo.png"
+theme: jekyll-theme-minimal
+title: Welcome to the xhacker's homepage.
+subtitle: Whatyou looking for ?
+tags: [personal, public]
+#thumbnail-img: "images/photo.png"
 
 # Site wide configuration
 
-title: Website of Ghanendra Singh
-theme: jekyll-theme-minimal
-locale: en_US
-logo: "images/photo.png"
-#description: Feel free to ideate and think about thinking.
+# title: Website of Ghanendra Singh
+# theme: jekyll-theme-minimal
+# locale: en_US
+# logo: "images/photo.png"
+# #description: Feel free to ideate and think about thinking.
 
-# filename of a logo image that has been placed into your images directory
+# # filename of a logo image that has been placed into your images directory
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Ghanendra
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: 22ghanendra@gmail.com
-  # Do not include the @ symbol in your Twitter username
-  twitter: 22ghanendra
-  linkedin: #username
-  github: Ghanendra19213
-  google:
-    scholar: #id
+# # Enter the following platform usernames if you would like for them to appear on your site.
+# owner:
+#   name: Ghanendra
+#   avatar: bio-photo.jpg
+#   bio: "This is a sample Jekyll academic website."
+#   email: 22ghanendra@gmail.com
+#   # Do not include the @ symbol in your Twitter username
+#   twitter: 22ghanendra
+#   linkedin: #username
+#   github: Ghanendra19213
+#   google:
+#     scholar: #id
