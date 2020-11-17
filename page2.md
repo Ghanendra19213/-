@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 ## Welcome to my 2nd page
 ### Projects
 
