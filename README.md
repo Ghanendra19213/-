@@ -29,7 +29,7 @@ Ideate, Implement and Execute
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
-![Image of tiker](https://github.com/Ghanendra19213/Hi/blob/master/gyani.jpg)
+![Image of tiker](https://github.com/Ghanendra19213/Hi/images/photo.png)
 
 ### Projects
 * ####  Real time Handwriting recognition
