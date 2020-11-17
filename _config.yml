@@ -7,15 +7,15 @@
 
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-theme: jekyll-theme-minimal
+title: Website of Ghanendra Singh
+#theme: jekyll-theme-minimal
 locale: en_US
 logo: "images/photo.png"
 # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Te
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
   email: laderast@ohsu.edu
