@@ -1,3 +1,9 @@
+---
+layout: page
+excerpt: "About Me..."
+---
+
+
 ## Welcome to my page
 ### I believe in Design, Build, Test and Iterate cycle.
 
