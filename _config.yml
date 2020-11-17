@@ -3,14 +3,15 @@
 # subtitle: Whatyou looking for ?
 # tags: [personal, public]
 # thumbnail-img: "images/photo.png"
-# description: Feel free to ideate and think about thinking.
 
 # Site wide configuration
 
 title: Website of Ghanendra Singh
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 locale: en_US
 logo: "images/photo.png"
+description: Feel free to ideate and think about thinking.
+
 # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
