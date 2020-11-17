@@ -32,8 +32,12 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 ### Projects
 1. Real time Handwriting recognition
 ````
-Developed a hardware and an android application to gather real time strokes data of doctor’s handwriting using a digital pen and (EMR ) electro
-magnetic resonance board. ESP32 Bluetooth low energy microcontroller was used to capture data from emr board and an API was used for real
+Developed a hardware and an android application
+to gather real time strokes data of doctor’s 
+handwriting using a digital pen and (EMR ) electro
+magnetic resonance board. ESP32 Bluetooth low 
+energy microcontroller was used to capture data
+from emr board and an API was used for real
 time display of handwritten data of stroke.
 ````
 2. Modular ECG Hardware Design [PCB](https://www.freelancer.in/u/ghanendra22/portfolio/Bluetooth-Low-Energy-RF-PCB-to-gather-ambient-light-data-4521156?w=f&ngsw-bypass=)
