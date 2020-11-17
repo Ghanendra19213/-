@@ -1,5 +1,4 @@
 ## Welcome to my page
-![Image of tiker](https://github.com/Ghanendra19213/Hi/blob/master/gyani.jpg)
 ### I believe in Design, Build, Test and Iterate cycle.
 
 Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis, ideating, programming and prototyping ideas to solve real world problems.
@@ -30,6 +29,7 @@ Ideate, Implement and Execute
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+![Image of tiker](https://github.com/Ghanendra19213/Hi/blob/master/gyani.jpg)
 
 ### Projects
 * ####  Real time Handwriting recognition
