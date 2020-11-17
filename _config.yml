@@ -8,8 +8,10 @@
 # Site wide configuration
 
 title: Academic Website of Ted Laderas
+theme: jekyll-theme-minimal
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: "images/photo.png"
+# filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
