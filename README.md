@@ -1,5 +1,5 @@
 ## Welcome to my page
-! [Image of tiker](https://github.com/Ghanendra19213/Hi/blob/master/gyani.jpg)
+![Image of tiker](https://github.com/Ghanendra19213/Hi/blob/master/gyani.jpg)
 ### I believe in Design, Build, Test and Iterate cycle.
 
 Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis, ideating, programming and prototyping ideas to solve real world problems.
