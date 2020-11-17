@@ -15,19 +15,13 @@ logo: "images/photo.png"
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Te
+  name: Ghanendra
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  email: 22ghanendra@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: 22ghanendra
   linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  github: Ghanendra19213
   google:
-    plus: #username
-    analytics:
-    verify:
     scholar: #id
