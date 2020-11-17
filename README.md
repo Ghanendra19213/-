@@ -42,9 +42,14 @@ time display of handwritten data of stroke.
 ````
 2. Modular ECG Hardware Design [PCB](https://www.freelancer.in/u/ghanendra22/portfolio/Bluetooth-Low-Energy-RF-PCB-to-gather-ambient-light-data-4521156?w=f&ngsw-bypass=)
 ````
-Designed two electrode ecg hardware boards for measurement of heart rate and a pulse oximeter to measure SpO2 levels in the blood, proof of
-concept for Texas Instruments Innovation Challenge 2018. In this we used Texas Instruments ADC IC and BLE CC2640 IC with OPT 3001
-sensor and captured data on android mobile app using TI's Sensor Tag.
+Designed two electrode ecg hardware boards for
+measurement of heart rate and a pulse oximeter
+to measure SpO2 levels in the blood, proof of
+concept for Texas Instruments Innovation Challenge 2018.
+In this we used Texas Instruments ADC IC and
+BLE CC2640 IC with OPT 3001
+sensor and captured data on android mobile app
+using TI's Sensor Tag.
 ````
 3. Lab2Moon [Lunarleap](https://www.youtube.com/watch?v=QQhw1NQdp1o&feature=youtu.be)
 ````
