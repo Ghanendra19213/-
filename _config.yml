@@ -4,3 +4,18 @@ subtitle: Whatyou looking for ?
 tags: [personal, public]
 thumbnail-img: "images/photo.png"
 description: Feel free to ideate and think about thinking.
+
+- title: Home
+  url: /
+
+- title: Presentations
+  url: /presentations/
+
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+
+- title: Workshops
+  url: /workshops/
