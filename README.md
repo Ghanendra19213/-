@@ -28,8 +28,6 @@ Ideate, Implement and Execute
 ```
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
-
 ### Projects
 * ####  Real time Handwriting recognition
 * ####  Modular ECG Hardware Design [PCB](https://www.freelancer.in/u/ghanendra22/portfolio/Bluetooth-Low-Energy-RF-PCB-to-gather-ambient-light-data-4521156?w=f&ngsw-bypass=)
