@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to the xhacker's homepage.
+title: Hi. Ghanendra here.
 subtitle: Whatyou looking for ?
 tags: [personal, public]
 thumbnail-img: "images/photo.png"
@@ -10,7 +10,7 @@ thumbnail-img: "images/photo.png"
 #theme: jekyll-theme-minimal
 #locale: en_US
 logo: "images/photo.png"
-#description: Feel free to ideate and think about thinking.
+description: Feel free to ideate and think about thinking.
 
 # # filename of a logo image that has been placed into your images directory
 
