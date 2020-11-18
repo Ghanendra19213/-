@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: Hi. Ghanendra here.
-subtitle: Whatyou looking for ?
+title: Ghanendra Singh
 tags: [personal, public]
 thumbnail-img: "images/photo.png"
+description: I think about thinking. Finding patterns to understand life. One day laws of biology will get discovered.
 
 # Site wide configuration
 
@@ -10,12 +10,11 @@ thumbnail-img: "images/photo.png"
 #theme: jekyll-theme-minimal
 #locale: en_US
 logo: "images/photo.png"
-description: Feel free to ideate and think about thinking.
 
 # # filename of a logo image that has been placed into your images directory
 
 # # Enter the following platform usernames if you would like for them to appear on your site.
-owner:
+owner: Gyani
   name: Ghanendra
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
