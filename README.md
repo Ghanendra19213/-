@@ -34,7 +34,7 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 ### Projects
 * ####  Facial Motion Capture System [Startup](https://youtu.be/2teiiQQX7-E)
 * ####  Electromyography using myoware muscle sensor [EMG](https://youtu.be/Gjqd5WrPDgQ)
-* ####  Pulseoximeter hardware prototype[PPG](https://youtu.be/ccWYdWIM7V4)
+* ####  Pulseoximeter hardware prototype [PPG](https://youtu.be/ccWYdWIM7V4)
 * ####  Pupil Eye Tracker [Eye](https://youtu.be/cXo66Wx069k)
 * ####  Haptic Feedback VR Glove [HackIndia](https://devpost.com/software/feelvr)
 * ####  Ambient light sensor on Bluetooth RF PCB [RF](https://youtu.be/yqqqq1caKwQ)
@@ -42,7 +42,8 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * ####  Lab2Moon [Lunarleap](https://www.youtube.com/watch?v=QQhw1NQdp1o&feature=youtu.be)
 * ####  Automatic Dough Sheeter Machine [Industrial](https://www.freelancer.in/u/ghanendra22/portfolio/Industrial-Automatic-Dough-Sheeter-Machine-used-in-Bakery-4521276?w=f&ngsw-bypass=)
 * ####  Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
-* ####  Real time Handwriting recognition
+* ####  Folding at home using Jetson Nano [Protein](https://youtu.be/FcmMP20d514)
+* ####  Real time Handwriting recognition [Prototype]
 
 ### Travel
 * #### My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
