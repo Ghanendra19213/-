@@ -46,6 +46,7 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * ####  Real time Handwriting recognition [Prototype]
 
 ### Travel
+* #### Till now, my most adventerous and challenging journey so far has been from sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days.
 * #### My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
 
 ### Contact
