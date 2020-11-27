@@ -46,7 +46,8 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * ####  Real time Handwriting recognition [Prototype]
 
 ### Travel
-* Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. [RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg)
+* Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. 
+![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg)
 * My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
 
 ### Contact
