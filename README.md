@@ -43,7 +43,7 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * ####  Automatic Dough Sheeter Machine [Industrial](https://www.freelancer.in/u/ghanendra22/portfolio/Industrial-Automatic-Dough-Sheeter-Machine-used-in-Bakery-4521276?w=f&ngsw-bypass=)
 * ####  Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
 * ####  Folding at home using Jetson Nano [Protein](https://youtu.be/FcmMP20d514)
-* ####  Real time Handwriting recognition [Prototype]
+* ####  Real time Handwriting recognition [Prototype](https://user-images.githubusercontent.com/57911691/100708645-b2274980-33d2-11eb-9519-ac2cbadaefec.jpg)
 
 ### Travel
 * Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. 
