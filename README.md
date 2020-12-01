@@ -58,4 +58,4 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * Video here [Youtube](https://youtu.be/7bne2EyvLlE)
 
 ### Contact
-Having trouble with Pages? Check out my [CV](https://github.com/Ghanendra19213/Hi/blob/master/ghanendra_CV.pdf) here.
+Having trouble with Pages? Check out my [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf) here.
