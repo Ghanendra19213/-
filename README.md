@@ -52,7 +52,7 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
 
 ### Insects
-* They really fascinate me, really interesting creatures.[Beauty](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
+* They really fascinate me, really interesting creatures. [Insects](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
 * Few encounters
 ![Insects](https://user-images.githubusercontent.com/57911691/100706098-683c6480-33ce-11eb-95d4-b6f422bce049.jpg)
 * Video here [Youtube](https://youtu.be/7bne2EyvLlE)
