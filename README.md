@@ -56,7 +56,8 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 * Few encounters
 ![Insects](https://user-images.githubusercontent.com/57911691/100706098-683c6480-33ce-11eb-95d4-b6f422bce049.jpg)
 * Video here [Youtube](https://youtu.be/7bne2EyvLlE)
+* Future Tech [Synbio](https://vimeo.com/265198586)
+
 
 ### Contact
 Having trouble with Pages? Check out my [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf) here.
-* Future Tech [Synbio](https://vimeo.com/265198586)
