@@ -29,7 +29,8 @@ Ideate, Implement and Execute
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ### Research
-* Telomere end replication problem to solve aging and cancer. [In Progress](https://youtu.be/IKwc3thhMbY)
+* Modeling the dynamics of telomere end replication problem which can be further exteneded to solve aging and cancer problem using synthetic biology.
+//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY)
 
 ### Projects
 * ####  Facial Motion Capture System [Startup](https://youtu.be/2teiiQQX7-E)
@@ -51,12 +52,12 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg)
 * My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
 
-### Insects
-* They really fascinate me, really interesting creatures. [Insects](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
-* Few encounters
-![Insects](https://user-images.githubusercontent.com/57911691/100706098-683c6480-33ce-11eb-95d4-b6f422bce049.jpg)
-* Video here [Youtube](https://youtu.be/7bne2EyvLlE)
-* Future Tech [Synbio](https://vimeo.com/265198586)
+//### Insects
+//* They really fascinate me, really interesting creatures. [Insects](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
+//* Few encounters
+//![Insects](https://user-images.githubusercontent.com/57911691/100706098-683c6480-33ce-11eb-95d4-b6f422bce049.jpg)
+//* Video here [Youtube](https://youtu.be/7bne2EyvLlE)
+//* Future Tech [Synbio](https://vimeo.com/265198586)
 
 
 ### Contact
