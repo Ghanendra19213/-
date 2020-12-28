@@ -29,7 +29,7 @@ Ideate, Implement and Execute
 For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing).
 
 ### Research
-* Modeling the dynamics of telomere end replication problem which can be further exteneded to solve aging and cancer problem using synthetic biology.
+* Master's Thesis In Progress: Currently working upon modeling the dynamics of telomere end replication problem which can be further exteneded to solve aging and cancer problem using synthetic biology.
 <!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Projects
