@@ -52,13 +52,13 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg)
 * My few travel videos [Youtube](https://www.youtube.com/channel/UCwAt2x-qoIGMmzP31aim74Q?view_as=subscriber)
 
-//### Insects
+<!--### Insects
 //* They really fascinate me, really interesting creatures. [Insects](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
 //* Few encounters
 //![Insects](https://user-images.githubusercontent.com/57911691/100706098-683c6480-33ce-11eb-95d4-b6f422bce049.jpg)
 //* Video here [Youtube](https://youtu.be/7bne2EyvLlE)
 //* Future Tech [Synbio](https://vimeo.com/265198586)
-
+-->
 
 ### Contact
 Having trouble with Pages? Check out my [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf) here.
