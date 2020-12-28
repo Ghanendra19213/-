@@ -30,7 +30,7 @@ For more details see [Paper](https://www.intechopen.com/books/synthetic-biology-
 
 ### Research
 * Modeling the dynamics of telomere end replication problem which can be further exteneded to solve aging and cancer problem using synthetic biology.
-//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY)
+<!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Projects
 * ####  Facial Motion Capture System [Startup](https://youtu.be/2teiiQQX7-E)
