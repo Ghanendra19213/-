@@ -1,14 +1,14 @@
 theme: jekyll-theme-minimal
 title: Ghanendra Singh
 tags: [personal, public]
-thumbnail-img: "images/photo.png"
+thumbnail-img: "images/photo.jpg"
 description: I think about thinking. Mind is curious to finding patterns and connect the dots.
 # Site wide configuration
 
 #title: Website of Ghanendra Singh
 #theme: jekyll-theme-minimal
 #locale: en_US
-logo: "images/photo.png"
+logo: "images/photo.jpg"
 
 # # filename of a logo image that has been placed into your images directory
 
