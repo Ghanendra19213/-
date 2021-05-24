@@ -1,8 +1,3 @@
-## Welcome to my page
-####I believe in Design, Build, Test and Iterate cycle.
-
-#Enjoy build and breaking stuff, simulating and mathematical modelling of hypothesis, ideating, programming and prototyping ideas to solve real world problems.
-
 ### About
 Bioengineer by research.
 Computational Biologist by profession.
