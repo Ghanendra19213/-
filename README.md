@@ -3,17 +3,11 @@
 Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) with [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
 Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
 
-* More details in [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf)
-
-
-
 #### [Looking for PhD opportunities to join a Research Lab](https://ghanendra19213.github.io/Hi/).
 
-* Bioengineer by research.
-* Computational Biologist by profession.
-* Electronics engineer by passion.
-* Solo traveller by experience.
-* Tinkerer by hobbist.
+* Bioengineer by research, Computational Biologist by profession, Electronics engineer by passion, Solo traveller by experience, and Tinkerer by hobbist.
+* More details in [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf)
+
 
 ```markdown
 Singularity is Far.
@@ -34,7 +28,7 @@ Ideate, Implement and Execute
 For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
 ### Research
-#### Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics, Nanoelectronics.
+Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics, Nanoelectronics.
 
 * Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
 * Master's Thesis  : Modeling the dynamics of telomere end replication.
