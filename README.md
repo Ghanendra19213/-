@@ -1,7 +1,7 @@
 ### About
 
-Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) under [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
-Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
+Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) with [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
+Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
 
 * More details in [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf)
 
@@ -68,11 +68,11 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 
 
 ### Projects
-#### (Biology Projects)
-* Hyperledger Fabric for secure storage of Human ageing genomic data. [GitHub](https://github.com/Ghanendra19213/IBC) [Youtube](https://youtu.be/h0Bb_r2ru1A)
-* Optimization of molecules using reinforcement  learning. [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
-* Analysis of C. elegans neuronal network properties. [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
-* Telomere Length Regulation. [Youtube](https://youtu.be/IKwc3thhMbY)
+#### (Course Projects)
+* Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
+* Optimization of molecules using reinforcement  learning under [Dr. Sanjit Krishnan Kaul](https://www.iiitd.ac.in/skkaul). Project Link: [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
+* Analysis of C. elegans neuronal network properties under [Dr. Ganesh Bagler](https://www.iiitd.ac.in/bagler). Project Link: [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
+* Telomere Length Regulation at [MIT edx](https://www.edx.org/course/principles-of-synthetic-biology). Project demo: [Youtube](https://youtu.be/IKwc3thhMbY)
 
 #### (Electronics Projects)
 * Facial Motion Capture System [Youtube](https://youtu.be/2teiiQQX7-E)
