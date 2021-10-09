@@ -2,7 +2,12 @@
 
 Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) under [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
 Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
-#### [Looking for PhD opportunities to join a Research Lab]().
+
+* More details in [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf)
+
+
+
+#### [Looking for PhD opportunities to join a Research Lab](https://ghanendra19213.github.io/Hi/).
 
 * Bioengineer by research.
 * Computational Biologist by profession.
