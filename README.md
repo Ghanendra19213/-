@@ -34,6 +34,8 @@ Ideate, Implement and Execute
 For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
 ### Research
+#### Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics, Nanoelectronics.
+
 * Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
 * Master's Thesis  : Modeling the dynamics of telomere end replication.
 * BioRxiv Paper    : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
