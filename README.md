@@ -54,6 +54,7 @@ For more details check this [Paper](https://www.intechopen.com/books/synthetic-b
 * Blockchain and Cryptocurrency
 * Reinforcement Learning
 * Computer Vision
+
 #### Electives for Teaching Assistant (TA)
 * Computational Gastronomy
 * Cognitive Psychology
