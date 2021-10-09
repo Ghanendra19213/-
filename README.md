@@ -26,7 +26,7 @@ Homo Speciation
 Ideate, Implement and Execute
 [Futurist]
 ```
-For more details check this [Paper](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
+For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
 ### Research
 * Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
@@ -64,25 +64,25 @@ For more details check this [Paper](https://www.intechopen.com/books/synthetic-b
 
 ### Projects
 #### (Biology Projects)
-* #### Hyperledger Fabric to store and access Human ageing genomic data. [GitHub](https://github.com/Ghanendra19213/IBC) [Youtube](https://youtu.be/h0Bb_r2ru1A)
-* #### Optimization of molecules using deep reinforcement learning. [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
-* #### Analysis of C. elegans neuronal network properties. [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
-* #### Telomere Length Regulation. [Youtube](https://youtu.be/IKwc3thhMbY)
+* Hyperledger Fabric for secure storage of Human ageing genomic data. [GitHub](https://github.com/Ghanendra19213/IBC) [Youtube](https://youtu.be/h0Bb_r2ru1A)
+* Optimization of molecules using reinforcement  learning. [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
+* Analysis of C. elegans neuronal network properties. [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
+* Telomere Length Regulation. [Youtube](https://youtu.be/IKwc3thhMbY)
 
 #### (Electronics Projects)
-* ####  Facial Motion Capture System [Youtube](https://youtu.be/2teiiQQX7-E)
-* ####  Electromyography using myoware muscle sensor [Youtube](https://youtu.be/Gjqd5WrPDgQ)
-* ####  Pulseoximeter hardware prototype [Youtube](https://youtu.be/ccWYdWIM7V4)
-* ####  Pupil Eye Tracker [Youtube](https://youtu.be/cXo66Wx069k)
-* ####  Haptic Feedback VR Glove [DevPost](https://devpost.com/software/feelvr)
-* ####  Ambient light sensor on Bluetooth RF PCB [Youtube](https://youtu.be/yqqqq1caKwQ)
-* ####  Modular ECG Hardware Design [Link](https://www.freelancer.in/u/ghanendra22/portfolio/Bluetooth-Low-Energy-RF-PCB-to-gather-ambient-light-data-4521156?w=f&ngsw-bypass=)
-* ####  Lab2Moon [Youtube](https://www.youtube.com/watch?v=QQhw1NQdp1o&feature=youtu.be)
-* ####  Automatic Dough Sheeter Machine [Link](https://www.freelancer.in/u/ghanendra22/portfolio/Industrial-Automatic-Dough-Sheeter-Machine-used-in-Bakery-4521276?w=f&ngsw-bypass=)
-* ####  Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
-* ####  Folding at home using Jetson Nano [Youtube](https://youtu.be/FcmMP20d514)
-* ####  Real time Handwriting recognition [Link](https://user-images.githubusercontent.com/57911691/100708645-b2274980-33d2-11eb-9519-ac2cbadaefec.jpg)
-* ####  Wireless Android Phone Bluetooth controlled Robot [Youtube](https://youtu.be/90tBvZ9Sy50)
+* Facial Motion Capture System [Youtube](https://youtu.be/2teiiQQX7-E)
+* Electromyography using myoware muscle sensor [Youtube](https://youtu.be/Gjqd5WrPDgQ)
+* Pulseoximeter hardware prototype [Youtube](https://youtu.be/ccWYdWIM7V4)
+* Pupil Eye Tracker [Youtube](https://youtu.be/cXo66Wx069k)
+* Haptic Feedback VR Glove [DevPost](https://devpost.com/software/feelvr)
+* Ambient light sensor on Bluetooth RF PCB [Youtube](https://youtu.be/yqqqq1caKwQ)
+* Modular ECG Hardware Design [Link](https://www.freelancer.in/u/ghanendra22/portfolio/Bluetooth-Low-Energy-RF-PCB-to-gather-ambient-light-data-4521156?w=f&ngsw-bypass=)
+* Lab2Moon [Youtube](https://www.youtube.com/watch?v=QQhw1NQdp1o&feature=youtu.be)
+* Automatic Dough Sheeter Machine [Link](https://www.freelancer.in/u/ghanendra22/portfolio/Industrial-Automatic-Dough-Sheeter-Machine-used-in-Bakery-4521276?w=f&ngsw-bypass=)
+* Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
+* Folding at home using Jetson Nano [Youtube](https://youtu.be/FcmMP20d514)
+* Real time Handwriting recognition [Link](https://user-images.githubusercontent.com/57911691/100708645-b2274980-33d2-11eb-9519-ac2cbadaefec.jpg)
+* Wireless Android Phone Bluetooth controlled Robot [Youtube](https://youtu.be/90tBvZ9Sy50)
 
 ### Travel
 * Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. 
