@@ -1,7 +1,7 @@
 ### About
 
 Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) with [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
-Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
+Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under the guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
 
 #### [Looking for PhD opportunities to join a Research Lab](https://ghanendra19213.github.io/Hi/).
 
@@ -10,25 +10,27 @@ Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.
 
 
 ```markdown
-Singularity is Far.
+<!-- Ideate, Implement and Execute
+[Futurist] -->
+// Singularity is Far.
 # import AI
 # import QC
 # import Synbio
 # import IOT
 void main ()
-## func Simulate(Brain)
-- Emerge
-- Mutate
-- Evolve
-- Converge
-Homo Speciation
-Ideate, Implement and Execute
-[Futurist]
+## func Simulate(Brain) {
+-   Emerge()
+-   Mutate()
+-   Evolve()
+-   Converge()
+return Homo Speciation
+}
+[print("Human-Machine Symbiosis")]("Human v2.0")
 ```
 For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
 ### Research
-Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics, Nanoelectronics.
+#### [Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics and Nanoelectronics](https://ghanendra19213.github.io/Hi/)
 
 * Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
 * Master's Thesis  : Modeling the dynamics of telomere end replication.
