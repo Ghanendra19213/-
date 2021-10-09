@@ -30,7 +30,7 @@ return Homo Speciation
 For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
 ### Research
-#### [Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics and Nanoelectronics](https://ghanendra19213.github.io/Hi/)
+[Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics and Nanoelectronics](https://ghanendra19213.github.io/Hi/)
 
 * Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
 * Master's Thesis  : Modeling the dynamics of telomere end replication.
