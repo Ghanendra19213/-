@@ -25,7 +25,7 @@ void main ()
 -   Converge()
 return Homo Speciation
 }
-[print("Human-Machine Symbiosis")]("Human v2.0")
+[print("Human-Machine Symbiosis")]("Homo-Sapiens-v2.0")
 ```
 For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 
