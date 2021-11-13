@@ -43,20 +43,21 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Atended NICE Conference, Neuroinspired Computational Elements Conference, (2021) [NICE](https://niceworkshop.org/nice-2021/)
 * Attended ICRTB International Conference on Recent Trends in Bioengineering Pune (2020) [ICRTB](https://www.mitbio.edu.in/icrtb/)
 
-### Courses
+### Academic Courses
 * Cell Biology and Biochemistry
-* Physics of Biological Systems
-* Principles of Synthetic Biology
 * Computational Neuroscience
 * Mathematical Biology
-* Systems Biology
 * Network Biology
-* Mechanobiology
-* Biophotonics
 * Drug Design 
 * Blockchain and Cryptocurrency
 * Reinforcement Learning
 * Computer Vision
+
+#### Additional Online Courses
+* Physics of Biological Systems (NPTEL)
+* Principles of Synthetic Biology (edX)
+* Mechanobiology (NPTEL)
+* Biophotonics (NPTEL)
 
 #### Electives for Teaching Assistant (TA)
 * Computational Gastronomy
@@ -64,6 +65,9 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Cognition of Motor Movements
 * Entrepreneurial Finance
 
+#### Sit Through Courses
+* Introduction to Nanoelectronics
+* Quantum Materials and Devices
 
 ### Projects
 #### (Course Projects)
