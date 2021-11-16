@@ -95,6 +95,7 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. 
 <!-- * RoadTrip -->
 <!--  ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg) -->
+* Hampi Trip CSB Lab [Youtube](https://youtu.be/QfxAzoQtBuc)
 * Mussoorie pirates [Youtube](https://www.youtube.com/watch?v=6vle897cmLY)
 * Bangalore to Mangalore [Youtube](https://www.youtube.com/watch?v=DnaIlCgokz8)
 * Peace at Chennai [Youtube](https://www.youtube.com/watch?v=uGYF9RDP83Y)
