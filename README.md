@@ -88,7 +88,6 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Automatic Dough Sheeter Machine [Link](https://www.freelancer.in/u/ghanendra22/portfolio/Industrial-Automatic-Dough-Sheeter-Machine-used-in-Bakery-4521276?w=f&ngsw-bypass=)
 * Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
 * Folding at home using Jetson Nano [Youtube](https://youtu.be/FcmMP20d514)
-* Real time Handwriting recognition [Link](https://user-images.githubusercontent.com/57911691/100708645-b2274980-33d2-11eb-9519-ac2cbadaefec.jpg)
 * Wireless Android Phone Bluetooth controlled Robot [Youtube](https://youtu.be/90tBvZ9Sy50)
 
 ### Travel
