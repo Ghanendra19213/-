@@ -1,7 +1,8 @@
 ### About
 
-Currently working as a Project Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) with [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
-Previously, I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under the guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi. 
+Currently working as a [BIRAC](https://www.birac.nic.in/) research fellow in the thematic area of Aging and Health. Earlier worked as a Software Development Engineer at a life science startup [SHILPS](https://www.shilps.life/) with [Dr. Ashwin Lal](https://in.linkedin.com/in/ashwin-lal-6542557), Bangalore.
+Previously worked as a Research Assistant in Cancer Systems Biology Lab [CSB](https://be.iisc.ac.in/~mkjolly/) with [Dr. Mohit Jolly](https://be.iisc.ac.in/~mkjolly/mohit/) at [IISc](https://iisc.ac.in/), Bangalore. 
+I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and thesis research work under the guidance of [Dr. Sriram K](https://www.iiitd.ac.in/sriram) at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 #### [Looking for PhD opportunities to join a Research Lab](https://ghanendra19213.github.io/Hi/).
 
@@ -32,8 +33,10 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 ### Research
 [Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics and Nanoelectronics](https://ghanendra19213.github.io/Hi/)
 
-* Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
-* Master's Thesis  : Modeling the dynamics of telomere end replication.
+* BioRxiv Paper    : Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
+* BioRxiv Paper    : Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
+* Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis. [BioRxiv](https://doi.org/10.1101/2021.11.27.470219)
+* Master's Thesis  : Modeling the dynamics of telomere end replication. [Thesis Defence](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv2pXSy_r7AhUs-TgGHbc8D_8QFnoECA0QAQ&url=https%3A%2F%2Fcb.iiitd.ac.in%2Fthesisdocs%2FInvitation%2520to%2520MTech%2520Thesis%2520Defense%2520of%2520Ghanendra%2520Singh.pdf&usg=AOvVaw3oPm-_uFmfqFEs1H2vghgz)
 * BioRxiv Paper    : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
 * BioRxiv Paper    : Mechanistic Model of Replication Fork Progression in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
 <!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
@@ -94,10 +97,14 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Till now, my most adventerous and challenging journey so far has been sole bike riding from Delhi to Bangalore in 2018, covering 2,556.5 km in 4 days. Interestingly relatable to the legendary road trip of Feynman and Dyson. 
 <!-- * RoadTrip -->
 <!--  ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg) -->
+* Bike Trip to Western Ghats [Youtube](https://www.youtube.com/watch?v=EQhmp8EfDNU)
+* Kodaikanal Trip [Youtube](https://www.youtube.com/watch?v=9DEv9HcBLBc)
+* Devarayana Durga Trek [Youtube](https://www.youtube.com/watch?v=MoxBx9y7gsk)
 * Hampi Trip CSB Lab [Youtube](https://youtu.be/QfxAzoQtBuc)
 * Mussoorie pirates [Youtube](https://www.youtube.com/watch?v=6vle897cmLY)
 * Bangalore to Mangalore [Youtube](https://www.youtube.com/watch?v=DnaIlCgokz8)
 * Peace at Chennai [Youtube](https://www.youtube.com/watch?v=uGYF9RDP83Y)
+
 <!--### Insects
 //* They really fascinate me, really interesting creatures. [Insects](https://user-images.githubusercontent.com/57911691/100706429-03cdd500-33cf-11eb-812a-3c88e2b3b155.jpg)
 //* Few encounters
