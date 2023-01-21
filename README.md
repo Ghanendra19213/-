@@ -7,7 +7,6 @@ I did my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) and the
 #### [Looking for PhD opportunities to join a Research Lab](https://ghanendra19213.github.io/Hi/).
 
 * Bioengineer by research, Computational Biologist by profession, Electronics engineer by passion, Solo traveller by experience, and Tinkerer by hobbist.
-* More details in [CV](https://github.com/Ghanendra19213/Hi/files/5622959/Ghanendra.Singh.CV.pdf)
 
 
 ```markdown
@@ -33,12 +32,15 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 ### Research
 [Interests: Systems biology, Computational biology, Neuroscience, Aging, Cancer, Mechanobiology, Biomicrofluidics and Nanoelectronics](https://ghanendra19213.github.io/Hi/)
 
-* BioRxiv Paper    : Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
-* BioRxiv Paper    : Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
-* Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis. [BioRxiv](https://doi.org/10.1101/2021.11.27.470219)
-* Master's Thesis  : Modeling the dynamics of telomere end replication. [Thesis Defence](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv2pXSy_r7AhUs-TgGHbc8D_8QFnoECA0QAQ&url=https%3A%2F%2Fcb.iiitd.ac.in%2Fthesisdocs%2FInvitation%2520to%2520MTech%2520Thesis%2520Defense%2520of%2520Ghanendra%2520Singh.pdf&usg=AOvVaw3oPm-_uFmfqFEs1H2vghgz)
-* BioRxiv Paper    : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
-* BioRxiv Paper    : Mechanistic Model of Replication Fork Progression in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
+* Paper    : Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
+* Paper    : Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
+* Paper    : Population Dynamics of Hybrid State during Adaptive Therapy in Cancer [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.27.470219v1)
+* Paper    : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
+* Paper    : Mechanistic Model of Replication Fork Progression in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
+
+Project Assistant: Modeling the role of Adaptive Therapy in Cancer Metastasis.
+Master's Thesis  : Modeling the dynamics of telomere end replication. [Thesis Defence](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv2pXSy_r7AhUs-TgGHbc8D_8QFnoECA0QAQ&url=https%3A%2F%2Fcb.iiitd.ac.in%2Fthesisdocs%2FInvitation%2520to%2520MTech%2520Thesis%2520Defense%2520of%2520Ghanendra%2520Singh.pdf&usg=AOvVaw3oPm-_uFmfqFEs1H2vghgz)
+
 <!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Conferences
@@ -98,7 +100,7 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 <!-- * RoadTrip -->
 <!--  ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg) -->
 * Bike Trip to Western Ghats [Youtube](https://www.youtube.com/watch?v=EQhmp8EfDNU)
-* Kodaikanal Trip [Youtube](https://www.youtube.com/watch?v=9DEv9HcBLBc)
+<!-- * Kodaikanal Trip [Youtube](https://www.youtube.com/watch?v=9DEv9HcBLBc) -->
 * Devarayana Durga Trek [Youtube](https://www.youtube.com/watch?v=MoxBx9y7gsk)
 * Hampi Trip CSB Lab [Youtube](https://youtu.be/QfxAzoQtBuc)
 * Mussoorie pirates [Youtube](https://www.youtube.com/watch?v=6vle897cmLY)
